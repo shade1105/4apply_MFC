@@ -1,2 +1,2 @@
 # 4apply_MFC
-SimpleMFC for apply
+채용지원을 위한 간단한 MFC 어플리케이션 레포지토리입니다.
